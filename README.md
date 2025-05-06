@@ -342,27 +342,26 @@ graph TD
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7buiEVyi9GAXgzw4/giphy.gif" width="200" alt="Robot GIF"/>
-        <h4>Teaching AI to understand memes</h4>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ3cHN3ZDlmaGRkbTdvcWg2ZnMxZG1mOW1zZzBiMjljYmp4YnhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLDXAJkUtSbPRuby9k/giphy.gif" width="200" alt="AI Vision GIF"/>
+        <h4>Building AI for gesture-based PPT presentation system</h4>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/l4FGr7tMjOGN3FvgI/giphy.gif" width="200" alt="Game GIF"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR6ejA2OGZwOGd3bmIzdHJ0OThscWF2cGt5ZmZrcWMxMWNmNWJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj09hpsfuYkijDi/giphy.gif" width="200" alt="Chess GIF"/>
         <h4>Building a chess bot that plays like me</h4>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7btNQrJ1rAh7SHwI/giphy.gif" width="200" alt="Music GIF"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V5NXpveHI2YmRxY3RxeWpza3plZmVheTc5MDhma2lkbzE2OWNqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btVYvxUMxrLC3yo/giphy.gif" width="200" alt="Music AI GIF"/>
         <h4>Generating music based on my mood</h4>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/l0HlMZrSRFr53NU1a/giphy.gif" width="200" alt="Writing GIF"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F0Nm5rcW0ydng0ZXUwbmo0M2gxenJlMnVmdngwaWw5MGswN2dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Writing GIF"/>
         <h4>AI that writes in my personal style</h4>
       </td>
     </tr>
   </table>
 </div>
-
 ## 🔮 Where I See Myself in 5 Years
 
 <div align="center">
