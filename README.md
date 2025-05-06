@@ -62,7 +62,7 @@
       <h3 align="center">ALERTIC - Drowsiness Detection</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/alertic" target="_blank">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*TpC7F1N7hCbKxQo07AvnYA.gif" width="100%" alt="AI Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ5MW82M2kzczNuNTZ4eGZtMjFiYzVmM2ljOGpibTFhaHpnM2Y3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJsjsm6dhNPiQjvV7Q/giphy.gif" width="100%" alt="Drowsiness Detection"/>
         </a>
         <p align="center">
           Real-time facial analysis system that detects drowsiness with 90%+ accuracy, integrating live stream monitoring with alert generation.
@@ -73,7 +73,7 @@
       <h3 align="center">Stock Price Prediction</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/stock-prediction" target="_blank">
-          <img src="https://i.pinimg.com/originals/a2/9a/ad/a29aad24622a1ca20ca04019a5e54c36.gif" width="100%" alt="Stock Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z1Y2J2NDB3Z2JzaXhxdmJka3Azbm9jYnFvZDF0cGJtb3BlcmR0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif" width="100%" alt="Stock Project"/>
         </a>
         <p align="center">
           LSTM model with ~80% accuracy on historical stock data with Flask web app for real-time predictions and visualization.
@@ -86,7 +86,7 @@
       <h3 align="center">Fake/Real Audio Classifier</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/audio-classifier" target="_blank">
-          <img src="https://cdn.dribbble.com/users/972024/screenshots/3493821/media/6aff9ab3132d3ea21bb41944c8243ee3.gif" width="100%" alt="Audio Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296M296ajA5MDZpaXR0YmRzNGc2ZHQwdXVkZXJsNml3ajl4a3YzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bueBCnoJB6xbCOQ/giphy.gif" width="100%" alt="Audio Project"/>
         </a>
         <p align="center">
           CNN model to classify deepfake vs. real audio with 87% accuracy using Librosa for Mel spectrogram extraction.
@@ -97,7 +97,7 @@
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/portfolio" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1428002/screenshots/4158755/media/afc1b64d8e312f67c94947593e4dfd9f.gif" width="100%" alt="Web Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN6bnJ3YWV1Z2N3anRzdDI1d3pvOThwc3UwdGx2bmhjYTlpYnlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Web Project"/>
         </a>
         <p align="center">
           Personal portfolio with HTML, CSS, JavaScript, Anime.js featuring smooth animations and responsive layout.
