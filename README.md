@@ -282,21 +282,22 @@ graph TD
 </div>
 
 ## 💭 Daily Tech Quote
-
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="160" height="120" alt="Thinking GIF"/>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Thinking GIF"/>
       </td>
       <td>
         <blockquote>
+          <!-- QUOTE:START -->
           "The best way to predict the future is to invent it." — Alan Kay
+          <!-- QUOTE:END -->
         </blockquote>
-        <p align="right"><i>Refresh daily for new inspiration</i></p>
+        <p align="right"><i>Auto-refreshes daily</i></p>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" height="120" alt="Lightbulb GIF"/>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Lightbulb GIF"/>
       </td>
     </tr>
   </table>
