@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&background=FF000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv+Sehgal;AI%2FML+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&background=FF000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dhruv+Sehgal;AI%2FML+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
   <!-- Sleek wavy divider -->
   <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" height="35px">
   Welcome to my digital playground
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Computer+Vision+Developer;Creative+Problem+Solver;Always+learning+new+technologies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Computer+Vision+Developer;Creative+Problem+Solver;Always+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
 
 <!-- Modern coding animation -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 💫 About Me
 
@@ -62,7 +62,7 @@
       <h3 align="center">ALERTIC - Drowsiness Detection</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/alertic" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ5MW82M2kzczNuNTZ4eGZtMjFiYzVmM2ljOGpibTFhaHpnM2Y3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJsjsm6dhNPiQjvV7Q/giphy.gif" width="100%" alt="Drowsiness Detection"/>
+          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlicDZ0dnk3cmZndW9mY2JnaXl5cncyZnJma3A0cnZheW9jNmFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUvGckWokkdg7SbKnG/giphy.gif" width="90%" height="180px" alt="Drowsiness Detection"/>
         </a>
         <p align="center">
           Real-time facial analysis system that detects drowsiness with 90%+ accuracy, integrating live stream monitoring with alert generation.
@@ -73,7 +73,7 @@
       <h3 align="center">Stock Price Prediction</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/stock-prediction" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z1Y2J2NDB3Z2JzaXhxdmJka3Azbm9jYnFvZDF0cGJtb3BlcmR0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif" width="100%" alt="Stock Project"/>
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN2ejBkdThuZWwyMmltZnA4eG1mOTFwZWJwYWhpdGUybDhha2ZxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aTS0jt1TAQw6nof0p4/giphy.gif" width="90%" height="180px" alt="Stock Project"/>
         </a>
         <p align="center">
           LSTM model with ~80% accuracy on historical stock data with Flask web app for real-time predictions and visualization.
@@ -86,7 +86,7 @@
       <h3 align="center">Fake/Real Audio Classifier</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/audio-classifier" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ296M296ajA5MDZpaXR0YmRzNGc2ZHQwdXVkZXJsNml3ajl4a3YzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bueBCnoJB6xbCOQ/giphy.gif" width="100%" alt="Audio Project"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1rNzFkaW43OGR5NmpxeWI1bG9xbWxqMms3cWtlNWNhZGdtMWN6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eXOVOJLkK6G7S/giphy.gif" width="90%" height="180px" alt="Audio Project"/>
         </a>
         <p align="center">
           CNN model to classify deepfake vs. real audio with 87% accuracy using Librosa for Mel spectrogram extraction.
@@ -97,7 +97,7 @@
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
         <a href="https://github.com/dhruv-shgal/portfolio" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN6bnJ3YWV1Z2N3anRzdDI1d3pvOThwc3UwdGx2bmhjYTlpYnlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Web Project"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN6bnJ3YWV1Z2N3anRzdDI1d3pvOThwc3UwdGx2bmhjYTlpYnlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="180px" alt="Web Project"/>
         </a>
         <p align="center">
           Personal portfolio with HTML, CSS, JavaScript, Anime.js featuring smooth animations and responsive layout.
@@ -107,15 +107,14 @@
   </tr>
 </table>
 
-## 🌟 Professional Experience
-
+🌟 Professional Experience
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" />
       </td>
-      <td>
+      <td width="50%">
         <h3>Software Development Intern</h3>
         <p><strong>Agratas Infotech Pvt Ltd – Noida</strong> (Aug 2024 – Oct 2024)</p>
         <ul>
@@ -126,7 +125,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="50%">
         <h3>Deep Learning Intern</h3>
         <p><strong>IGDTUW Center of Excellence AI – New Delhi</strong> (Jun 2024 – Jul 2024)</p>
         <ul>
@@ -135,8 +134,8 @@
           <li>Participated in research projects with industry applications</li>
         </ul>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/programming1.gif" width="300" />
+      <td width="50%">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc2M2dmNHB1OXF0azJ3YWlscmFuZDJyMXE0eDlsa2EwcXB1Mmg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -145,16 +144,16 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-shgal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-shgal&theme=tokyonight" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-shgal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-shgal&theme=tokyonight" alt="GitHub Streak" width="48%" height="180">
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-shgal&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-shgal&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" height="200">
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-shgal&theme=algolia&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-shgal&theme=algolia&row=1&column=7" alt="GitHub Trophies" width="100%">
 </div>
 
 ## 🎯 My AI/ML Journey
@@ -180,7 +179,7 @@ graph TD
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://cdn.dribbble.com/users/1233499/screenshots/6565544/500x500.gif" width="300" alt="Research GIF"/>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHE5eG9pNWw2bTlqYW0yOGo1aHpvb3BoZXVweDVqcHFiZTN4djF0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5krfq8pMdYhAV52xPg/giphy.gif" width="250" height="180" alt="Research GIF"/>
       </td>
       <td width="50%">
         <ul>
@@ -259,7 +258,7 @@ graph TD
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" width="300" alt="Community GIF"/>
+        <img src="https://media.giphy.com/media/l2JdTkHW1KZPdvdS0/giphy.gif" width="250" height="180" alt="Community GIF"/>
       </td>
       <td>
         <h3>NSS Volunteer</h3>
@@ -288,7 +287,7 @@ graph TD
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Thinking GIF"/>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="160" height="120" alt="Thinking GIF"/>
       </td>
       <td>
         <blockquote>
@@ -297,7 +296,7 @@ graph TD
         <p align="right"><i>Refresh daily for new inspiration</i></p>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Lightbulb GIF"/>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" height="120" alt="Lightbulb GIF"/>
       </td>
     </tr>
   </table>
@@ -306,7 +305,7 @@ graph TD
 ## 🎵 Current Coding Playlist
 
 <div align="center">
-  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="200" alt="Music GIF"/>
+  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="180" height="120" alt="Music GIF"/>
   <table>
     <tr>
       <th>Track Name</th>
@@ -342,30 +341,31 @@ graph TD
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ3cHN3ZDlmaGRkbTdvcWg2ZnMxZG1mOW1zZzBiMjljYmp4YnhkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLDXAJkUtSbPRuby9k/giphy.gif" width="200" alt="AI Vision GIF"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k1bm16dGczZ29pMTVjdXp1em1pOG82NTE2bTEzMDQ5bTBjZDV1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/94iS62lx8CRQA/giphy.gif" width="180" height="140" alt="AI Vision GIF"/>
         <h4>Building AI for gesture-based PPT presentation system</h4>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR6ejA2OGZwOGd3bmIzdHJ0OThscWF2cGt5ZmZrcWMxMWNmNWJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj09hpsfuYkijDi/giphy.gif" width="200" alt="Chess GIF"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR6ejA2OGZwOGd3bmIzdHJ0OThscWF2cGt5ZmZrcWMxMWNmNWJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj09hpsfuYkijDi/giphy.gif" width="180" height="140" alt="Chess GIF"/>
         <h4>Building a chess bot that plays like me</h4>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V5NXpveHI2YmRxY3RxeWpza3plZmVheTc5MDhma2lkbzE2OWNqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btVYvxUMxrLC3yo/giphy.gif" width="200" alt="Music AI GIF"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V5NXpveHI2YmRxY3RxeWpza3plZmVheTc5MDhma2lkbzE2OWNqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btVYvxUMxrLC3yo/giphy.gif" width="180" height="140" alt="Music AI GIF"/>
         <h4>Generating music based on my mood</h4>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F0Nm5rcW0ydng0ZXUwbmo0M2gxenJlMnVmdngwaWw5MGswN2dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Writing GIF"/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNoNXV0bm52NjF2cWI4a3V3NjBhNHR1andyZWZ6N2c0amVrd3UxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="180" height="140" alt="Writing GIF"/>
         <h4>AI that writes in my personal style</h4>
       </td>
     </tr>
   </table>
 </div>
+
 ## 🔮 Where I See Myself in 5 Years
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="400" alt="Future GIF"/>
+  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="350" height="200" alt="Future GIF"/>
   <p>Leading an AI research team focused on developing ethical, accessible AI solutions that address critical global challenges in healthcare, education, and sustainability.</p>
 </div>
 
@@ -373,10 +373,10 @@ graph TD
 
 <p align="center">
   <a href="mailto:dhruvsehgal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dhruv-singhal-0417b0203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/dhruv-sehgal-dhrvshgl230904"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dhruv-shgal.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="https://twitter.com/dhruv_shgal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://kaggle.com/dhruvshgal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://x.com/DhruvSe94305845"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/dhruvshgal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ## ⚡ Random Dev Quote
@@ -396,3 +396,5 @@ graph TD
 
 <!-- Sleek wavy divider -->
 <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+
