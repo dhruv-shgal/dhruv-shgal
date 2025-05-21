@@ -294,7 +294,7 @@ graph TD
           "The best way to predict the future is to invent it." — Alan Kay
           <!-- QUOTE:END -->
         </blockquote>
-        <p align="right"><i>Auto-refreshes daily</i></p>
+        <p align="right"><i>Comeback daily for new motivation.</i></p>
       </td>
       <td>
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Lightbulb GIF"/>
